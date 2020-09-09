@@ -1,2 +1,4 @@
-# programming-intermediate-course-python
-학교 '프로그래밍 실전(python)' 수업
+# 프로그래밍 실전 (python)
+지난 학기 프로그래밍 기초(python) 수업을 들었습니다. 이 강의는 그 후속 강의로 기본적인 파이썬 활용 능력을 필요로 합니다.
+
+학교 '프로그래밍 실전(python)' 수업을 듣고 공부한 내용과 과제를 정리합니다.
